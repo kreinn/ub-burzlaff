@@ -1,6 +1,6 @@
 <?php
 
-	$to = 'username@test.com';  // please change this email id
+	$to = 'ub-burzlaff@t-online.de';  // please change this email id
 	
 	$errors = array();
 	// print_r($_POST);
