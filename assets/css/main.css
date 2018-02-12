@@ -114,7 +114,11 @@ section{
 		Header
 **********************/
 .header{
-	background-image: url(../images/burzlaff-20.jpg);
+	background-image: url(../images/burzlaff-20.jpg); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 	height: 100vh;
 	position: relative;
 }
@@ -124,7 +128,7 @@ section{
 .intro h1{
 	position: relative;
 	color: #fff;
-	font-size: 90px;
+	font-size: 15vh;
 	text-transform: uppercase;
 	line-height: 1;
 }
