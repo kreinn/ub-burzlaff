@@ -106,7 +106,10 @@ section{
 	.navbar-nav>li>a{
 		padding-top: 30px;
 		padding-bottom: 30px;
-	}	
+	}
+    .top-nav-collapse {
+        padding: 0;
+    }
 }
 
 
