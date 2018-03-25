@@ -4,10 +4,21 @@ body {
 
 .ub-nav-bar {
 	position: relative;
+	top: 80px;
 }
 
 .seminar-link {
 	text-decoration: none !important;
 	color: #333 !important;
+}
+
+.header-subpage {
+	background-image: none !important;
+	height: inherit;
+	top: 80px;
+	position: relative;
+}
+.intro-box-subpage {
+	height: unset !important;
 }
 
