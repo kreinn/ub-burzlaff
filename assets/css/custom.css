@@ -22,3 +22,8 @@ body {
 	height: unset !important;
 }
 
+.btn-ub {
+	border-radius: 0;
+	background-color: #31436b;
+	color: white;
+}
