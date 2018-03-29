@@ -1,3 +1,4 @@
+
 body {
 	background-color: #F2EEED !important;
 }
@@ -23,7 +24,27 @@ body {
 }
 
 .btn-ub, .btn-ub:hover, .btn-ub:link, .btn-ub:active .btn-ub:visited {
-	border-radius: 0;
-	background-color: #31436b;
-	color: white;
+	border-radius: 0 !important;
+	background-color: #31436b !important;;
+	color: white !important;;
+}
+
+.choose {
+	background-color: #bababa;
+	background-blend-mode: hard-light;
+}
+
+#seminare, #beratungen {
+	padding: 0;
+}
+
+.modal-dialog {
+	width: -moz-min-content;
+	width: min-content;;
+}
+
+.modal-content {
+	width: -moz-max-content;
+	width: max-content;
+	margin-right: 50%;
 }
