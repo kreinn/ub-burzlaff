@@ -1,4 +1,3 @@
-
 body {
 	background-color: #F2EEED !important;
 }
@@ -47,4 +46,9 @@ body {
 	width: -moz-max-content;
 	width: max-content;
 	margin-right: 50%;
+}
+
+.impressum {
+    top: 80px;
+    position: relative;
 }
