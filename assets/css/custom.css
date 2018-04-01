@@ -1,4 +1,56 @@
+body {
+	background-color: #F2EEED !important;
+}
+
+.ub-nav-bar {
+	position: relative;
+	top: 80px;
+}
+
+.seminar-link {
+	text-decoration: none !important;
+	color: #333 !important;
+}
+
+.header-subpage {
+	background-image: none !important;
+	height: inherit;
+	top: 80px;
+	position: relative;
+}
+.intro-box-subpage {
+	height: unset !important;
+}
+
+.btn-ub, .btn-ub:hover, .btn-ub:link, .btn-ub:active .btn-ub:visited {
+	border-radius: 0 !important;
+	background-color: #31436b !important;
+	color: white !important;;
+	border-color: #31436b !important;
+}
+
+.choose {
+	background-color: #bababa;
+	background-blend-mode: hard-light;
+}
+
+#seminare, #beratungen {
+	padding: 0;
+}
+
 .impressum {
     top: 80px;
     position: relative;
+}
+
+.modal-header .close {
+	margin-top: -50px !important;
+}
+
+.panel-body {
+	text-align: left;
+}
+
+.leistung-box {
+	height: 5em;
 }
