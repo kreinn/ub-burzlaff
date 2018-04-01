@@ -50,3 +50,7 @@ body {
 .panel-body {
 	text-align: left;
 }
+
+.leistung-box {
+	height: 5em;
+}
