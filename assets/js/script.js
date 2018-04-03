@@ -19,21 +19,6 @@ $( document ).ready(function() {
         });
     });
 
-    $('#slider_1').owlCarousel({
-        loop:true,
-        margin:10,
-        nav:false,
-        dots: true,
-        items: 1,
-    })
-    $('#test-slider').owlCarousel({
-        loop:true,
-        margin:10,
-        nav:false,
-        dots: true,
-        items: 1,
-    })
-
     $("#contactForm").submit(function(e){
 
         e.preventDefault();
