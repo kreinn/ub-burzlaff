@@ -54,3 +54,11 @@ body {
 .leistung-box {
 	height: 7.5em;
 }
+
+.panel-heading {
+	padding: 0 !important;
+}
+
+.seminar-link-container {
+	padding: 10px 15px;
+}
